@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "KC_recall">
+	<slot number = "1">
+		<patcher name = "sfchannel[11]">
+			<pattr name = "channel" value = "116.240387" />
+		</patcher>
+		<patcher name = "sfchannel[10]">
+			<pattr name = "channel" value = "0." />
+		</patcher>
+		<patcher name = "sfchannel[9]">
+			<pattr name = "channel" value = "117.75" />
+		</patcher>
+		<patcher name = "sfchannel[8]">
+			<pattr name = "channel" value = "116.240387" />
+		</patcher>
+		<patcher name = "sfchannel[7]">
+			<pattr name = "channel" value = "129.82692" />
+		</patcher>
+		<patcher name = "sfchannel[6]">
+			<pattr name = "channel" value = "119.259613" />
+		</patcher>
+		<patcher name = "sfchannel[5]">
+			<pattr name = "channel" value = "107.182693" />
+		</patcher>
+		<patcher name = "sfchannel[4]">
+			<pattr name = "channel" value = "113.221153" />
+		</patcher>
+		<patcher name = "sfchannel[3]">
+			<pattr name = "channel" value = "131.336533" />
+		</patcher>
+		<patcher name = "sfchannel[2]">
+			<pattr name = "channel" value = "113.221153" />
+		</patcher>
+		<patcher name = "sfchannel[1]">
+			<pattr name = "channel" value = "128.317307" />
+		</patcher>
+		<patcher name = "sfchannel_chain[2]">
+			<pattr name = "channel" value = "105.67308" />
+		</patcher>
+		<patcher name = "sfchannel_mono[4]">
+			<pattr name = "channel" value = "132.846161" />
+		</patcher>
+		<patcher name = "sfchannel_mono[3]">
+			<pattr name = "channel" value = "108.692307" />
+		</patcher>
+		<patcher name = "sfchannel_mono[2]">
+			<pattr name = "channel" value = "98.125" />
+		</patcher>
+		<patcher name = "sfchannel_mono[1]">
+			<pattr name = "channel" value = "122.278847" />
+		</patcher>
+		<patcher name = "sfchannel_mono">
+			<pattr name = "channel" value = "119.259613" />
+		</patcher>
+		<patcher name = "sfchannel_chain[1]">
+			<pattr name = "channel" value = "114.730766" />
+		</patcher>
+		<patcher name = "sfchannel_chain">
+			<pattr name = "channel" value = "128." />
+		</patcher>
+		<patcher name = "sfchannel">
+			<pattr name = "channel" value = "110.20192" />
+		</patcher>
+		<patcher name = "eq3">
+			<pattr name = "eq-lo" value = "0." />
+			<pattr name = "eq-mid" value = "0." />
+			<pattr name = "eq-hi" value = "0." />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<patcher name = "sfchannel[11]">
+			<pattr name = "channel" value = "116." />
+		</patcher>
+		<patcher name = "sfchannel[10]">
+			<pattr name = "channel" value = "117.75" />
+		</patcher>
+		<patcher name = "sfchannel[9]">
+			<pattr name = "channel" value = "117." />
+		</patcher>
+		<patcher name = "sfchannel[8]">
+			<pattr name = "channel" value = "116." />
+		</patcher>
+		<patcher name = "sfchannel[7]">
+			<pattr name = "channel" value = "129." />
+		</patcher>
+		<patcher name = "sfchannel[6]">
+			<pattr name = "channel" value = "119." />
+		</patcher>
+		<patcher name = "sfchannel[5]">
+			<pattr name = "channel" value = "107." />
+		</patcher>
+		<patcher name = "sfchannel[4]">
+			<pattr name = "channel" value = "113." />
+		</patcher>
+		<patcher name = "sfchannel[3]">
+			<pattr name = "channel" value = "131." />
+		</patcher>
+		<patcher name = "sfchannel[2]">
+			<pattr name = "channel" value = "113." />
+		</patcher>
+		<patcher name = "sfchannel[1]">
+			<pattr name = "channel" value = "128." />
+		</patcher>
+		<patcher name = "sfchannel_chain[2]">
+			<pattr name = "channel" value = "105." />
+		</patcher>
+		<patcher name = "sfchannel_mono[4]">
+			<pattr name = "channel" value = "132." />
+		</patcher>
+		<patcher name = "sfchannel_mono[3]">
+			<pattr name = "channel" value = "108." />
+		</patcher>
+		<patcher name = "sfchannel_mono[2]">
+			<pattr name = "channel" value = "98." />
+		</patcher>
+		<patcher name = "sfchannel_mono[1]">
+			<pattr name = "channel" value = "122." />
+		</patcher>
+		<patcher name = "sfchannel_mono">
+			<pattr name = "channel" value = "119." />
+		</patcher>
+		<patcher name = "sfchannel_chain[1]">
+			<pattr name = "channel" value = "114." />
+		</patcher>
+		<patcher name = "sfchannel_chain">
+			<pattr name = "channel" value = "128." />
+		</patcher>
+		<patcher name = "sfchannel">
+			<pattr name = "channel" value = "110." />
+		</patcher>
+		<patcher name = "eq3">
+			<pattr name = "eq-lo" value = "0." />
+			<pattr name = "eq-mid" value = "0." />
+			<pattr name = "eq-hi" value = "0." />
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<patcher name = "sfchannel[11]">
+			<pattr name = "channel" value = "116.240387" />
+		</patcher>
+		<patcher name = "sfchannel[10]">
+			<pattr name = "channel" value = "117." />
+		</patcher>
+		<patcher name = "sfchannel[9]">
+			<pattr name = "channel" value = "125.29808" />
+		</patcher>
+		<patcher name = "sfchannel[8]">
+			<pattr name = "channel" value = "111.71154" />
+		</patcher>
+		<patcher name = "sfchannel[7]">
+			<pattr name = "channel" value = "134.355774" />
+		</patcher>
+		<patcher name = "sfchannel[6]">
+			<pattr name = "channel" value = "119." />
+		</patcher>
+		<patcher name = "sfchannel[5]">
+			<pattr name = "channel" value = "107." />
+		</patcher>
+		<patcher name = "sfchannel[4]">
+			<pattr name = "channel" value = "113." />
+		</patcher>
+		<patcher name = "sfchannel[3]">
+			<pattr name = "channel" value = "131." />
+		</patcher>
+		<patcher name = "sfchannel[2]">
+			<pattr name = "channel" value = "113." />
+		</patcher>
+		<patcher name = "sfchannel[1]">
+			<pattr name = "channel" value = "122.278847" />
+		</patcher>
+		<patcher name = "sfchannel_chain[2]">
+			<pattr name = "channel" value = "113.221153" />
+		</patcher>
+		<patcher name = "sfchannel_mono[4]">
+			<pattr name = "channel" value = "132." />
+		</patcher>
+		<patcher name = "sfchannel_mono[3]">
+			<pattr name = "channel" value = "76.990387" />
+		</patcher>
+		<patcher name = "sfchannel_mono[2]">
+			<pattr name = "channel" value = "81.519234" />
+		</patcher>
+		<patcher name = "sfchannel_mono[1]">
+			<pattr name = "channel" value = "122." />
+		</patcher>
+		<patcher name = "sfchannel_mono">
+			<pattr name = "channel" value = "107.182693" />
+		</patcher>
+		<patcher name = "sfchannel_chain[1]">
+			<pattr name = "channel" value = "114." />
+		</patcher>
+		<patcher name = "sfchannel_chain">
+			<pattr name = "channel" value = "128." />
+		</patcher>
+		<patcher name = "sfchannel">
+			<pattr name = "channel" value = "110." />
+		</patcher>
+		<patcher name = "eq3">
+			<pattr name = "eq-lo" value = "0." />
+			<pattr name = "eq-mid" value = "0." />
+			<pattr name = "eq-hi" value = "0." />
+		</patcher>
+	</slot>
+</pattrstorage>
+

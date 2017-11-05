@@ -1,0 +1,169 @@
+{
+	"pattrstorage" : 	{
+		"name" : "vol-levels",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"hi-gain" : [ 10 ],
+					"lo-gain" : [ 7 ],
+					"mid-gain" : [ 3 ],
+					"vol1" : [ 113 ],
+					"vol10" : [ 113 ],
+					"vol11" : [ 117 ],
+					"vol12" : [ 128 ],
+					"vol13" : [ 100 ],
+					"vol14" : [ 98 ],
+					"vol15" : [ 124 ],
+					"vol16" : [ 117 ],
+					"vol17" : [ 131 ],
+					"vol18" : [ 114 ],
+					"vol19" : [ 122 ],
+					"vol2" : [ 109 ],
+					"vol20" : [ 113 ],
+					"vol3" : [ 125 ],
+					"vol4" : [ 116 ],
+					"vol5" : [ 134 ],
+					"vol6" : [ 114 ],
+					"vol7" : [ 113 ],
+					"vol8" : [ 120 ],
+					"vol9" : [ 122 ],
+					"buffir-eq::hi-freq" : [ 10000.0 ],
+					"buffir-eq::hi-gain" : [ 10 ],
+					"buffir-eq::lo-freq" : [ 500.0 ],
+					"buffir-eq::lo-gain" : [ 7 ],
+					"buffir-eq::mid-gain" : [ 3 ],
+					"buffir-eq[1]::hi-freq" : [ 10000.0 ],
+					"buffir-eq[1]::hi-gain" : [ 10 ],
+					"buffir-eq[1]::lo-freq" : [ 500.0 ],
+					"buffir-eq[1]::lo-gain" : [ 7 ],
+					"buffir-eq[1]::mid-gain" : [ 3 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"hi-gain" : [ 5 ],
+					"lo-gain" : [ 4 ],
+					"mid-gain" : [ 4 ],
+					"vol1" : [ 116 ],
+					"vol10" : [ 104 ],
+					"vol11" : [ 117 ],
+					"vol12" : [ 128 ],
+					"vol13" : [ 100 ],
+					"vol14" : [ 98 ],
+					"vol15" : [ 124 ],
+					"vol16" : [ 117 ],
+					"vol17" : [ 131 ],
+					"vol18" : [ 114 ],
+					"vol19" : [ 122 ],
+					"vol2" : [ 42 ],
+					"vol20" : [ 0 ],
+					"vol3" : [ 125 ],
+					"vol4" : [ 116 ],
+					"vol5" : [ 134 ],
+					"vol6" : [ 114 ],
+					"vol7" : [ 113 ],
+					"vol8" : [ 120 ],
+					"vol9" : [ 112 ],
+					"buffir-eq::hi-freq" : [ 10000.0 ],
+					"buffir-eq::hi-gain" : [ 5 ],
+					"buffir-eq::lo-freq" : [ 500.0 ],
+					"buffir-eq::lo-gain" : [ 4 ],
+					"buffir-eq::mid-gain" : [ 4 ],
+					"buffir-eq[1]::hi-freq" : [ 10000.0 ],
+					"buffir-eq[1]::hi-gain" : [ 5 ],
+					"buffir-eq[1]::lo-freq" : [ 500.0 ],
+					"buffir-eq[1]::lo-gain" : [ 4 ],
+					"buffir-eq[1]::mid-gain" : [ 4 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"hi-gain" : [ 5 ],
+					"lo-gain" : [ 4 ],
+					"mid-gain" : [ 4 ],
+					"vol1" : [ 103 ],
+					"vol10" : [ 104 ],
+					"vol11" : [ 117 ],
+					"vol12" : [ 128 ],
+					"vol13" : [ 100 ],
+					"vol14" : [ 98 ],
+					"vol15" : [ 124 ],
+					"vol16" : [ 117 ],
+					"vol17" : [ 131 ],
+					"vol18" : [ 114 ],
+					"vol19" : [ 122 ],
+					"vol2" : [ 125 ],
+					"vol20" : [ 0 ],
+					"vol3" : [ 125 ],
+					"vol4" : [ 116 ],
+					"vol5" : [ 134 ],
+					"vol6" : [ 114 ],
+					"vol7" : [ 113 ],
+					"vol8" : [ 120 ],
+					"vol9" : [ 112 ],
+					"buffir-eq::hi-freq" : [ 10000.0 ],
+					"buffir-eq::hi-gain" : [ 5 ],
+					"buffir-eq::lo-freq" : [ 500.0 ],
+					"buffir-eq::lo-gain" : [ 4 ],
+					"buffir-eq::mid-gain" : [ 4 ],
+					"buffir-eq[1]::hi-freq" : [ 10000.0 ],
+					"buffir-eq[1]::hi-gain" : [ 5 ],
+					"buffir-eq[1]::lo-freq" : [ 500.0 ],
+					"buffir-eq[1]::lo-gain" : [ 4 ],
+					"buffir-eq[1]::mid-gain" : [ 4 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"hi-gain" : [ 5 ],
+					"lo-gain" : [ 4 ],
+					"mid-gain" : [ 4 ],
+					"vol1" : [ 102 ],
+					"vol10" : [ 93 ],
+					"vol11" : [ 103 ],
+					"vol12" : [ 118 ],
+					"vol13" : [ 82 ],
+					"vol14" : [ 87 ],
+					"vol15" : [ 111 ],
+					"vol16" : [ 98 ],
+					"vol17" : [ 124 ],
+					"vol18" : [ 105 ],
+					"vol19" : [ 112 ],
+					"vol2" : [ 118 ],
+					"vol20" : [ 114 ],
+					"vol3" : [ 110 ],
+					"vol4" : [ 106 ],
+					"vol5" : [ 116 ],
+					"vol6" : [ 96 ],
+					"vol7" : [ 102 ],
+					"vol8" : [ 106 ],
+					"vol9" : [ 105 ],
+					"buffir-eq::hi-freq" : [ 10000.0 ],
+					"buffir-eq::hi-gain" : [ 5 ],
+					"buffir-eq::lo-freq" : [ 500.0 ],
+					"buffir-eq::lo-gain" : [ 4 ],
+					"buffir-eq::mid-gain" : [ 4 ],
+					"buffir-eq[1]::hi-freq" : [ 10000.0 ],
+					"buffir-eq[1]::hi-gain" : [ 5 ],
+					"buffir-eq[1]::lo-freq" : [ 500.0 ],
+					"buffir-eq[1]::lo-gain" : [ 4 ],
+					"buffir-eq[1]::mid-gain" : [ 4 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
